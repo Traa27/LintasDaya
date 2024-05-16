@@ -47,6 +47,22 @@ h6 {
 
 /* Back to top button */
 
+/* .buttop-popup {
+    display: flex;
+} */
+
+.icon-whatsapp-popup {
+    position: fixed;
+    background: #50d8af;
+    color: #fff;
+    padding: 6px 12px 9px 12px;
+    font-size: 30px;
+    border-radius: 2px;
+    /* right: 15px; */
+    left: 15px;
+    bottom: 15px;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
